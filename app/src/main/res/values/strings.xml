@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start"> Start Game </string>
+    <string name="question">   Question- 1/100   </string>
+</resources>
